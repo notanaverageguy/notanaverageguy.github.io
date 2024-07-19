@@ -49,24 +49,53 @@ function frameArea(sizeToFitOnScreen, boxSize, boxCenter, camera) {
   camera.lookAt(boxCenter.x, boxCenter.y, boxCenter.z);
 }
 
+let current_render_index = 0;
+let things_to_render = [
+  "baseplate",
+  "road",
+  "buildings",
+  //"props",
+  "billboards",
+  //"deco"
+];
 function render_model(ModelPath) {
   const mtlLoader = new MTLLoader();
   const objLoader = new OBJLoader();
   mtlLoader.load(`Models/${ModelPath}/${ModelPath}.mtl`, (mtl) => {
     mtl.preload();
     objLoader.setMaterials(mtl);
-    objLoader.load(`Models/${ModelPath}/${ModelPath}.obj`, (root) => {
-      scene.add(root);
-      //const box = new THREE.Box3().setFromObject(root); find bounding box
-      const box = new THREE.Box3().setFromObject(root);
+    objLoader.load(
+      `Models/${ModelPath}/${ModelPath}.obj`,
+      (root) => {
+        scene.add(root);
+        //const box = new THREE.Box3().setFromObject(root); find bounding box
+        const box = new THREE.Box3().setFromObject(root);
 
-      const boxSize = box.getSize(new THREE.Vector3()).length();
-      const boxCenter = box.getCenter(new THREE.Vector3());
+        const boxSize = box.getSize(new THREE.Vector3()).length();
+        const boxCenter = box.getCenter(new THREE.Vector3());
 
-      // set the camera to frame the box
-      frameArea(boxSize * 1.2, boxSize, boxCenter, camera);
-    });
+        // set the camera to frame the box
+        frameArea(boxSize * 1.2, boxSize, boxCenter, camera);
+
+        current_render_index += 1;
+        if (current_render_index == things_to_render.length) {
+          document.getElementById("loading-overlay").style.display = "none";
+        }
+      },
+      function (xhr) {
+        document.getElementById("loading-overlay").style.display = "flex";
+        document.getElementById("loading-percent").innerText =
+          `${ModelPath}: ${((xhr.loaded / xhr.total) * 100).toFixed(2)}% loaded`;
+      },
+      function (err) {
+        alert(`There was an error loading model ${ModelPath}`);
+        console.log(err);
+      },
+    );
   });
+}
+for (let thing_to_render of things_to_render) {
+  render_model(thing_to_render);
 }
 
 function resizeRendererToDisplaySize(renderer) {
@@ -93,13 +122,8 @@ function render() {
   requestAnimationFrame(render);
 }
 
-render_model("baseplate");
-render_model("road");
-render_model("buildings");
-render_model("props");
-render_model("billboards");
-render_model("deco");
 requestAnimationFrame(render);
+
 const is_key_down = (() => {
   const state = {};
 
