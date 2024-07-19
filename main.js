@@ -166,7 +166,7 @@ function randomize_position(roads = true, buildings = true) {
   if (!roads && !buildings) return;
 
   while (true) {
-    const road_weight = 0.0;
+    const road_weight = 0.1;
     const buildings_weight = 0.1;
     const rand_num = Math.random() * (road_weight + buildings_weight);
 
@@ -209,7 +209,7 @@ function randomize_position(roads = true, buildings = true) {
             chosenSegment.p1.z +
             interpolationFactor * (chosenSegment.p2.z - chosenSegment.p1.z);
 
-          camera.position.set(pointX, 7, pointZ);
+          camera.position.set(pointX, 20, pointZ);
         }
         break;
       }
