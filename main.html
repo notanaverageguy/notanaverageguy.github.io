@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Parkour Geoguessr</title>
+        <link rel="stylesheet" href="styles.css" />
+        <link rel="icon" type="image/x-icon" href="/Static/favicon.ico" />
+        <script type="importmap">
+            {
+                "imports": {
+                    "three": "https://cdn.jsdelivr.net/npm/three@v0.149.0/build/three.module.js",
+                    "three/addons/": "https://cdn.jsdelivr.net/npm/three@v0.149.0/examples/jsm/"
+                }
+            }
+        </script>
+        <script src="./RoadData.js"></script>
+    </head>
+    <body>
+        <canvas id="c"></canvas>
+        <script type="module" src="/main.js"></script>
+
+        <h1 id="scoreDisplay">Score: 100</h1>
+
+        <div class="map-image-wrapper">
+            <img
+                src="Static/roads.png"
+                alt="Image"
+                class="map-image"
+                id="map-image"
+                draggable="false"
+            />
+            <div class="click-overlay" id="clickOverlay"></div>
+        </div>
+    </body>
+</html>

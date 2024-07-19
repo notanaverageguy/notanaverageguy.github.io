@@ -1,0 +1,2782 @@
+newmtl Board1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.0848385 0.0848385 0.0848385 
+
+d 1
+
+Ns 0
+
+newmtl Usernamescreen1Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.0186948 0.0196106 0.0256121 
+
+d 1
+
+Ns 202
+
+map_Ka Usernamescreen1_diff.png
+map_Kd Usernamescreen1_diff.png
+map_d Usernamescreen1_diff.png
+
+map_Bump Usernamescreen1_nmap.png
+
+map_Ns Usernamescreen1_spec.png
+
+newmtl Poster97Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0784314 0.0784314 0.0784314 
+
+d 1
+
+Ns 0
+
+map_Ka Poster97_diff.png
+map_Kd Poster97_diff.png
+map_d Poster97_diff.png
+
+newmtl Main2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main2_diff.png
+map_Kd Main2_diff.png
+map_d Main2_diff.png
+
+newmtl Poster28Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster28_diff.png
+map_Kd Poster28_diff.png
+map_d Poster28_diff.png
+
+newmtl Part1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0225023 0.0205504 0.0220053 
+
+d 1
+
+Ns 202
+
+map_Ka Usernamescreen1_diff.png
+map_Kd Usernamescreen1_diff.png
+map_d Usernamescreen1_diff.png
+
+map_Bump Usernamescreen1_nmap.png
+
+map_Ns Usernamescreen1_spec.png
+
+newmtl Poster318Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster318_diff.png
+map_Kd Poster318_diff.png
+map_d Poster318_diff.png
+
+newmtl Poster180Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster180_diff.png
+map_Kd Poster180_diff.png
+map_d Poster180_diff.png
+
+newmtl Poster26Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster26_diff.png
+map_Kd Poster26_diff.png
+map_d Poster26_diff.png
+
+newmtl Part4Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0673972 0.0664909 0.0692299 
+
+d 1
+
+Ns 202
+
+map_Ka Usernamescreen1_diff.png
+map_Kd Usernamescreen1_diff.png
+map_d Usernamescreen1_diff.png
+
+map_Bump Usernamescreen1_nmap.png
+
+map_Ns Usernamescreen1_spec.png
+
+newmtl Poster205Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster205_diff.png
+map_Kd Poster205_diff.png
+map_d Poster205_diff.png
+
+newmtl Poster96Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0097836 0.00893498 0.00956751 
+
+d 1
+
+Ns 0
+
+map_Ka Poster96_diff.png
+map_Kd Poster96_diff.png
+map_d Poster96_diff.png
+
+map_Bump Poster96_nmap.png
+
+map_Ns Poster96_spec.png
+
+newmtl Poster30Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster30_diff.png
+map_Kd Poster30_diff.png
+map_d Poster30_diff.png
+
+newmtl Truss1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Poster2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster2_diff.png
+map_Kd Poster2_diff.png
+map_d Poster2_diff.png
+
+newmtl Button1Mtl
+Material Color
+Ka 0 1 0
+Kd 0 1 0
+Ks 0 0.0901961 0 
+
+d 1
+
+Ns 0
+
+newmtl Poster67Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster67_diff.png
+map_Kd Poster67_diff.png
+map_d Poster67_diff.png
+
+newmtl Main3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main3_diff.png
+map_Kd Main3_diff.png
+map_d Main3_diff.png
+
+newmtl Poster85Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Poster85_diff.png
+map_Kd Poster85_diff.png
+map_d Poster85_diff.png
+
+newmtl Poster1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.00782688 0.00714798 0.00765401 
+
+d 1
+
+Ns 0
+
+newmtl Poster142Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster142_diff.png
+map_Kd Poster142_diff.png
+map_d Poster142_diff.png
+
+newmtl Poster77Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster77_diff.png
+map_Kd Poster77_diff.png
+map_d Poster77_diff.png
+
+newmtl Poster89Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Poster89_diff.png
+map_Kd Poster89_diff.png
+map_d Poster89_diff.png
+
+newmtl Poster154Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster154_diff.png
+map_Kd Poster154_diff.png
+map_d Poster154_diff.png
+
+newmtl Poster36Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster36_diff.png
+map_Kd Poster36_diff.png
+map_d Poster36_diff.png
+
+newmtl Poster4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster4_diff.png
+map_Kd Poster4_diff.png
+map_d Poster4_diff.png
+
+newmtl Poster46Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster46_diff.png
+map_Kd Poster46_diff.png
+map_d Poster46_diff.png
+
+newmtl Poster6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster6_diff.png
+map_Kd Poster6_diff.png
+map_d Poster6_diff.png
+
+newmtl Poster228Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster228_diff.png
+map_Kd Poster228_diff.png
+map_d Poster228_diff.png
+
+newmtl Poster93Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Poster93_diff.png
+map_Kd Poster93_diff.png
+map_d Poster93_diff.png
+
+newmtl Poster8Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster8_diff.png
+map_Kd Poster8_diff.png
+map_d Poster8_diff.png
+
+newmtl Poster54Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster54_diff.png
+map_Kd Poster54_diff.png
+map_d Poster54_diff.png
+
+newmtl Main5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main5_diff.png
+map_Kd Main5_diff.png
+map_d Main5_diff.png
+
+newmtl Poster16Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster16_diff.png
+map_Kd Poster16_diff.png
+map_d Poster16_diff.png
+
+newmtl Poster50Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster50_diff.png
+map_Kd Poster50_diff.png
+map_d Poster50_diff.png
+
+newmtl Poster40Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster40_diff.png
+map_Kd Poster40_diff.png
+map_d Poster40_diff.png
+
+newmtl Poster10Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster10_diff.png
+map_Kd Poster10_diff.png
+map_d Poster10_diff.png
+
+newmtl Poster268Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster268_diff.png
+map_Kd Poster268_diff.png
+map_d Poster268_diff.png
+
+newmtl Poster12Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster12_diff.png
+map_Kd Poster12_diff.png
+map_d Poster12_diff.png
+
+newmtl Poster13Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.0590181 0.0590181 0.0590181 
+
+d 1
+
+Ns 0
+
+newmtl Poster24Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster24_diff.png
+map_Kd Poster24_diff.png
+map_d Poster24_diff.png
+
+newmtl Poster112Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster112_diff.png
+map_Kd Poster112_diff.png
+map_d Poster112_diff.png
+
+newmtl Poster14Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster14_diff.png
+map_Kd Poster14_diff.png
+map_d Poster14_diff.png
+
+newmtl Poster18Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster18_diff.png
+map_Kd Poster18_diff.png
+map_d Poster18_diff.png
+
+newmtl Poster201Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster201_diff.png
+map_Kd Poster201_diff.png
+map_d Poster201_diff.png
+
+newmtl Poster43Mtl
+Material Color
+Ka 0.0962661 0.0891935 0.0915184
+Kd 0.0962661 0.0891935 0.0915184
+Ks 0.00604023 0.00559646 0.00574233 
+
+d 1
+
+Ns 0
+
+newmtl Poster20Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster20_diff.png
+map_Kd Poster20_diff.png
+map_d Poster20_diff.png
+
+newmtl Poster81Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster81_diff.png
+map_Kd Poster81_diff.png
+map_d Poster81_diff.png
+
+newmtl Main13Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main13_diff.png
+map_Kd Main13_diff.png
+map_d Main13_diff.png
+
+newmtl Poster21Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+newmtl Poster22Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster22_diff.png
+map_Kd Poster22_diff.png
+map_d Poster22_diff.png
+
+newmtl Poster44Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster44_diff.png
+map_Kd Poster44_diff.png
+map_d Poster44_diff.png
+
+newmtl Poster32Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster32_diff.png
+map_Kd Poster32_diff.png
+map_d Poster32_diff.png
+
+newmtl Poster234Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster234_diff.png
+map_Kd Poster234_diff.png
+map_d Poster234_diff.png
+
+newmtl Poster34Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster34_diff.png
+map_Kd Poster34_diff.png
+map_d Poster34_diff.png
+
+newmtl Poster38Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster38_diff.png
+map_Kd Poster38_diff.png
+map_d Poster38_diff.png
+
+newmtl Poster42Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster42_diff.png
+map_Kd Poster42_diff.png
+map_d Poster42_diff.png
+
+newmtl Poster48Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster48_diff.png
+map_Kd Poster48_diff.png
+map_d Poster48_diff.png
+
+newmtl Poster305Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster305_diff.png
+map_Kd Poster305_diff.png
+map_d Poster305_diff.png
+
+newmtl Poster52Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster52_diff.png
+map_Kd Poster52_diff.png
+map_d Poster52_diff.png
+
+newmtl Poster56Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster56_diff.png
+map_Kd Poster56_diff.png
+map_d Poster56_diff.png
+
+newmtl Poster58Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster58_diff.png
+map_Kd Poster58_diff.png
+map_d Poster58_diff.png
+
+newmtl Poster84Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0494072 0.0451216 0.0483159 
+
+d 1
+
+Ns 0
+
+newmtl Poster60Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster60_diff.png
+map_Kd Poster60_diff.png
+map_d Poster60_diff.png
+
+newmtl Main7Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main7_diff.png
+map_Kd Main7_diff.png
+map_d Main7_diff.png
+
+newmtl Poster62Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster62_diff.png
+map_Kd Poster62_diff.png
+map_d Poster62_diff.png
+
+newmtl Poster73Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster73_diff.png
+map_Kd Poster73_diff.png
+map_d Poster73_diff.png
+
+newmtl Poster64Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster64_diff.png
+map_Kd Poster64_diff.png
+map_d Poster64_diff.png
+
+newmtl Poster65Mtl
+Material Color
+Ka 0.00411618 1 0.00837312
+Kd 0.00411618 1 0.00837312
+Ks 0.00025827 0.0627451 0.000525372 
+
+d 1
+
+Ns 0
+
+newmtl Poster69Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster69_diff.png
+map_Kd Poster69_diff.png
+map_d Poster69_diff.png
+
+newmtl Poster71Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster71_diff.png
+map_Kd Poster71_diff.png
+map_d Poster71_diff.png
+
+newmtl Poster95Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Poster95_diff.png
+map_Kd Poster95_diff.png
+map_d Poster95_diff.png
+
+newmtl Poster79Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster79_diff.png
+map_Kd Poster79_diff.png
+map_d Poster79_diff.png
+
+newmtl Poster123Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster123_diff.png
+map_Kd Poster123_diff.png
+map_d Poster123_diff.png
+
+newmtl Poster75Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster75_diff.png
+map_Kd Poster75_diff.png
+map_d Poster75_diff.png
+
+newmtl Poster197Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster197_diff.png
+map_Kd Poster197_diff.png
+map_d Poster197_diff.png
+
+newmtl Poster183Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster183_diff.png
+map_Kd Poster183_diff.png
+map_d Poster183_diff.png
+
+newmtl Poster83Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster83_diff.png
+map_Kd Poster83_diff.png
+map_d Poster83_diff.png
+
+newmtl Poster87Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Poster87_diff.png
+map_Kd Poster87_diff.png
+map_d Poster87_diff.png
+
+newmtl Poster91Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Poster91_diff.png
+map_Kd Poster91_diff.png
+map_d Poster91_diff.png
+
+newmtl Poster98Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0784314 0.0784314 0.0784314 
+
+d 1
+
+Ns 0
+
+map_Ka Poster98_diff.png
+map_Kd Poster98_diff.png
+map_d Poster98_diff.png
+
+newmtl Poster100Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster100_diff.png
+map_Kd Poster100_diff.png
+map_d Poster100_diff.png
+
+newmtl Poster102Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster102_diff.png
+map_Kd Poster102_diff.png
+map_d Poster102_diff.png
+
+newmtl Main65Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main65_diff.png
+map_Kd Main65_diff.png
+map_d Main65_diff.png
+
+newmtl Poster104Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster104_diff.png
+map_Kd Poster104_diff.png
+map_d Poster104_diff.png
+
+newmtl Poster276Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster276_diff.png
+map_Kd Poster276_diff.png
+map_d Poster276_diff.png
+
+newmtl Main11Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main11_diff.png
+map_Kd Main11_diff.png
+map_d Main11_diff.png
+
+newmtl Poster106Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster106_diff.png
+map_Kd Poster106_diff.png
+map_d Poster106_diff.png
+
+newmtl Main39Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main39_diff.png
+map_Kd Main39_diff.png
+map_d Main39_diff.png
+
+newmtl Poster108Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster108_diff.png
+map_Kd Poster108_diff.png
+map_d Poster108_diff.png
+
+newmtl Poster110Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster110_diff.png
+map_Kd Poster110_diff.png
+map_d Poster110_diff.png
+
+newmtl Main15Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main15_diff.png
+map_Kd Main15_diff.png
+map_d Main15_diff.png
+
+newmtl Poster114Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster114_diff.png
+map_Kd Poster114_diff.png
+map_d Poster114_diff.png
+
+newmtl Poster117Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster117_diff.png
+map_Kd Poster117_diff.png
+map_d Poster117_diff.png
+
+newmtl Poster119Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster119_diff.png
+map_Kd Poster119_diff.png
+map_d Poster119_diff.png
+
+newmtl Poster193Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster193_diff.png
+map_Kd Poster193_diff.png
+map_d Poster193_diff.png
+
+newmtl Poster147Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster147_diff.png
+map_Kd Poster147_diff.png
+map_d Poster147_diff.png
+
+newmtl Poster121Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster121_diff.png
+map_Kd Poster121_diff.png
+map_d Poster121_diff.png
+
+newmtl Poster250Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster250_diff.png
+map_Kd Poster250_diff.png
+map_d Poster250_diff.png
+
+newmtl Poster125Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster125_diff.png
+map_Kd Poster125_diff.png
+map_d Poster125_diff.png
+
+newmtl Poster127Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster127_diff.png
+map_Kd Poster127_diff.png
+map_d Poster127_diff.png
+
+newmtl Main35Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main35_diff.png
+map_Kd Main35_diff.png
+map_d Main35_diff.png
+
+newmtl Poster260Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Poster260_diff.png
+map_Kd Poster260_diff.png
+map_d Poster260_diff.png
+
+newmtl Poster129Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+newmtl Poster131Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster131_diff.png
+map_Kd Poster131_diff.png
+map_d Poster131_diff.png
+
+newmtl Poster133Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster133_diff.png
+map_Kd Poster133_diff.png
+map_d Poster133_diff.png
+
+newmtl Poster324Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Poster324_diff.png
+map_Kd Poster324_diff.png
+map_d Poster324_diff.png
+
+newmtl Poster136Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster136_diff.png
+map_Kd Poster136_diff.png
+map_d Poster136_diff.png
+
+newmtl Poster138Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster138_diff.png
+map_Kd Poster138_diff.png
+map_d Poster138_diff.png
+
+newmtl Poster140Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster140_diff.png
+map_Kd Poster140_diff.png
+map_d Poster140_diff.png
+
+newmtl Poster328Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster328_diff.png
+map_Kd Poster328_diff.png
+map_d Poster328_diff.png
+
+newmtl Poster274Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster274_diff.png
+map_Kd Poster274_diff.png
+map_d Poster274_diff.png
+
+newmtl Poster226Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster226_diff.png
+map_Kd Poster226_diff.png
+map_d Poster226_diff.png
+
+newmtl Poster145Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster145_diff.png
+map_Kd Poster145_diff.png
+map_d Poster145_diff.png
+
+newmtl Poster149Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster149_diff.png
+map_Kd Poster149_diff.png
+map_d Poster149_diff.png
+
+newmtl Poster153Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster153_diff.png
+map_Kd Poster153_diff.png
+map_d Poster153_diff.png
+
+newmtl Poster157Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster157_diff.png
+map_Kd Poster157_diff.png
+map_d Poster157_diff.png
+
+newmtl Poster158Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster158_diff.png
+map_Kd Poster158_diff.png
+map_d Poster158_diff.png
+
+newmtl Poster163Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster98_diff.png
+map_Kd Poster98_diff.png
+map_d Poster98_diff.png
+
+newmtl Poster166Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster166_diff.png
+map_Kd Poster166_diff.png
+map_d Poster166_diff.png
+
+newmtl Poster168Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster168_diff.png
+map_Kd Poster168_diff.png
+map_d Poster168_diff.png
+
+newmtl Poster170Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster170_diff.png
+map_Kd Poster170_diff.png
+map_d Poster170_diff.png
+
+newmtl Poster172Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster172_diff.png
+map_Kd Poster172_diff.png
+map_d Poster172_diff.png
+
+newmtl Poster174Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster174_diff.png
+map_Kd Poster174_diff.png
+map_d Poster174_diff.png
+
+newmtl Poster176Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster176_diff.png
+map_Kd Poster176_diff.png
+map_d Poster176_diff.png
+
+newmtl Poster185Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster185_diff.png
+map_Kd Poster185_diff.png
+map_d Poster185_diff.png
+
+newmtl Poster189Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster189_diff.png
+map_Kd Poster189_diff.png
+map_d Poster189_diff.png
+
+newmtl Poster191Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster191_diff.png
+map_Kd Poster191_diff.png
+map_d Poster191_diff.png
+
+newmtl Poster195Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster195_diff.png
+map_Kd Poster195_diff.png
+map_d Poster195_diff.png
+
+newmtl Poster199Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster199_diff.png
+map_Kd Poster199_diff.png
+map_d Poster199_diff.png
+
+newmtl Main17Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main17_diff.png
+map_Kd Main17_diff.png
+map_d Main17_diff.png
+
+newmtl Poster203Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster203_diff.png
+map_Kd Poster203_diff.png
+map_d Poster203_diff.png
+
+newmtl Main63Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main63_diff.png
+map_Kd Main63_diff.png
+map_d Main63_diff.png
+
+newmtl Poster207Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster207_diff.png
+map_Kd Poster207_diff.png
+map_d Poster207_diff.png
+
+newmtl Poster210Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster210_diff.png
+map_Kd Poster210_diff.png
+map_d Poster210_diff.png
+
+newmtl Poster212Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster212_diff.png
+map_Kd Poster212_diff.png
+map_d Poster212_diff.png
+
+newmtl Poster238Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster238_diff.png
+map_Kd Poster238_diff.png
+map_d Poster238_diff.png
+
+newmtl Poster214Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster214_diff.png
+map_Kd Poster214_diff.png
+map_d Poster214_diff.png
+
+newmtl Poster216Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster216_diff.png
+map_Kd Poster216_diff.png
+map_d Poster216_diff.png
+
+newmtl Main57Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main57_diff.png
+map_Kd Main57_diff.png
+map_d Main57_diff.png
+
+newmtl Poster220Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster220_diff.png
+map_Kd Poster220_diff.png
+map_d Poster220_diff.png
+
+newmtl Poster224Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster224_diff.png
+map_Kd Poster224_diff.png
+map_d Poster224_diff.png
+
+newmtl Poster230Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster230_diff.png
+map_Kd Poster230_diff.png
+map_d Poster230_diff.png
+
+newmtl Poster236Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster236_diff.png
+map_Kd Poster236_diff.png
+map_d Poster236_diff.png
+
+newmtl Main69Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main69_diff.png
+map_Kd Main69_diff.png
+map_d Main69_diff.png
+
+newmtl Poster240Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster240_diff.png
+map_Kd Poster240_diff.png
+map_d Poster240_diff.png
+
+newmtl Poster242Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster242_diff.png
+map_Kd Poster242_diff.png
+map_d Poster242_diff.png
+
+newmtl Poster244Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster244_diff.png
+map_Kd Poster244_diff.png
+map_d Poster244_diff.png
+
+newmtl Poster246Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster246_diff.png
+map_Kd Poster246_diff.png
+map_d Poster246_diff.png
+
+newmtl Poster248Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster248_diff.png
+map_Kd Poster248_diff.png
+map_d Poster248_diff.png
+
+newmtl Poster252Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster252_diff.png
+map_Kd Poster252_diff.png
+map_d Poster252_diff.png
+
+newmtl Main53Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main53_diff.png
+map_Kd Main53_diff.png
+map_d Main53_diff.png
+
+newmtl Poster254Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Poster254_diff.png
+map_Kd Poster254_diff.png
+map_d Poster254_diff.png
+
+newmtl Poster258Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster258_diff.png
+map_Kd Poster258_diff.png
+map_d Poster258_diff.png
+
+newmtl Poster262Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster262_diff.png
+map_Kd Poster262_diff.png
+map_d Poster262_diff.png
+
+newmtl Poster264Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster264_diff.png
+map_Kd Poster264_diff.png
+map_d Poster264_diff.png
+
+newmtl Poster266Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster266_diff.png
+map_Kd Poster266_diff.png
+map_d Poster266_diff.png
+
+newmtl Poster269Mtl
+Material Color
+Ka 0.618686 0.0289912 0.0289912
+Kd 0.618686 0.0289912 0.0289912
+Ks 0.0388195 0.00181905 0.00181905 
+
+d 1
+
+Ns 0
+
+newmtl Poster270Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster270_diff.png
+map_Kd Poster270_diff.png
+map_d Poster270_diff.png
+
+newmtl Poster278Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster278_diff.png
+map_Kd Poster278_diff.png
+map_d Poster278_diff.png
+
+newmtl Poster280Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster280_diff.png
+map_Kd Poster280_diff.png
+map_d Poster280_diff.png
+
+newmtl Main71Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main71_diff.png
+map_Kd Main71_diff.png
+map_d Main71_diff.png
+
+newmtl Poster282Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster282_diff.png
+map_Kd Poster282_diff.png
+map_d Poster282_diff.png
+
+newmtl Poster284Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster284_diff.png
+map_Kd Poster284_diff.png
+map_d Poster284_diff.png
+
+newmtl Poster288Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster288_diff.png
+map_Kd Poster288_diff.png
+map_d Poster288_diff.png
+
+newmtl Poster292Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster292_diff.png
+map_Kd Poster292_diff.png
+map_d Poster292_diff.png
+
+newmtl Poster294Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster294_diff.png
+map_Kd Poster294_diff.png
+map_d Poster294_diff.png
+
+newmtl Poster296Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster296_diff.png
+map_Kd Poster296_diff.png
+map_d Poster296_diff.png
+
+newmtl Poster298Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster298_diff.png
+map_Kd Poster298_diff.png
+map_d Poster298_diff.png
+
+newmtl Poster300Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster300_diff.png
+map_Kd Poster300_diff.png
+map_d Poster300_diff.png
+
+newmtl Poster307Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster307_diff.png
+map_Kd Poster307_diff.png
+map_d Poster307_diff.png
+
+newmtl Poster309Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster309_diff.png
+map_Kd Poster309_diff.png
+map_d Poster309_diff.png
+
+newmtl Poster312Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster312_diff.png
+map_Kd Poster312_diff.png
+map_d Poster312_diff.png
+
+newmtl Poster314Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster314_diff.png
+map_Kd Poster314_diff.png
+map_d Poster314_diff.png
+
+newmtl Poster316Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster316_diff.png
+map_Kd Poster316_diff.png
+map_d Poster316_diff.png
+
+newmtl Main73Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main73_diff.png
+map_Kd Main73_diff.png
+map_d Main73_diff.png
+
+newmtl Poster320Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster320_diff.png
+map_Kd Poster320_diff.png
+map_d Poster320_diff.png
+
+newmtl Main31Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main31_diff.png
+map_Kd Main31_diff.png
+map_d Main31_diff.png
+
+newmtl Poster322Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster322_diff.png
+map_Kd Poster322_diff.png
+map_d Poster322_diff.png
+
+newmtl Poster323Mtl
+Material Color
+Ka 0.598942 0.605484 0.645555
+Kd 0.598942 0.605484 0.645555
+Ks 0.237228 0.239819 0.255691 
+
+d 1
+
+Ns 0
+
+newmtl Poster326Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster326_diff.png
+map_Kd Poster326_diff.png
+map_d Poster326_diff.png
+
+newmtl Poster330Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster330_diff.png
+map_Kd Poster330_diff.png
+map_d Poster330_diff.png
+
+newmtl Poster332Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster332_diff.png
+map_Kd Poster332_diff.png
+map_d Poster332_diff.png
+
+newmtl Poster334Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Poster334_diff.png
+map_Kd Poster334_diff.png
+map_d Poster334_diff.png
+
+newmtl Main19Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main19_diff.png
+map_Kd Main19_diff.png
+map_d Main19_diff.png
+
+newmtl Main21Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main21_diff.png
+map_Kd Main21_diff.png
+map_d Main21_diff.png
+
+newmtl Main23Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main23_diff.png
+map_Kd Main23_diff.png
+map_d Main23_diff.png
+
+newmtl Main25Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main25_diff.png
+map_Kd Main25_diff.png
+map_d Main25_diff.png
+
+newmtl Main27Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main27_diff.png
+map_Kd Main27_diff.png
+map_d Main27_diff.png
+
+newmtl Main29Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main29_diff.png
+map_Kd Main29_diff.png
+map_d Main29_diff.png
+
+newmtl Main33Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main33_diff.png
+map_Kd Main33_diff.png
+map_d Main33_diff.png
+
+newmtl Main37Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main37_diff.png
+map_Kd Main37_diff.png
+map_d Main37_diff.png
+
+newmtl Main41Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main41_diff.png
+map_Kd Main41_diff.png
+map_d Main41_diff.png
+
+newmtl Main43Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main43_diff.png
+map_Kd Main43_diff.png
+map_d Main43_diff.png
+
+newmtl Main45Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main45_diff.png
+map_Kd Main45_diff.png
+map_d Main45_diff.png
+
+newmtl Main47Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main47_diff.png
+map_Kd Main47_diff.png
+map_d Main47_diff.png
+
+newmtl Main49Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main49_diff.png
+map_Kd Main49_diff.png
+map_d Main49_diff.png
+
+newmtl Main51Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main51_diff.png
+map_Kd Main51_diff.png
+map_d Main51_diff.png
+
+newmtl Main55Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main55_diff.png
+map_Kd Main55_diff.png
+map_d Main55_diff.png
+
+newmtl Main59Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main59_diff.png
+map_Kd Main59_diff.png
+map_d Main59_diff.png
+
+newmtl Main61Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main61_diff.png
+map_Kd Main61_diff.png
+map_d Main61_diff.png
+

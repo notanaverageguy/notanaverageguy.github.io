@@ -1,0 +1,106 @@
+newmtl Straight1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000617297 0.00163171 0.00272208 
+
+d 1
+
+Ns 0
+
+map_Ka Straight1_diff.png
+map_Kd Straight1_diff.png
+map_d Straight1_diff.png
+
+map_Ns Straight1_spec.png
+
+newmtl Straight2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0862745 0.0862745 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka Straight2_diff.png
+map_Kd Straight2_diff.png
+map_d Straight2_diff.png
+
+newmtl 3wayIntersection2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0862745 0.0862745 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka 3wayIntersection2_diff.png
+map_Kd 3wayIntersection2_diff.png
+map_d 3wayIntersection2_diff.png
+
+newmtl Straight443Mtl
+Material Color
+Ka 0.618686 0.618686 0.618686
+Kd 0.618686 0.618686 0.618686
+Ks 0.0533768 0.0533768 0.0533768 
+
+d 1
+
+Ns 0
+
+map_Ka Straight1_diff.png
+map_Kd Straight1_diff.png
+map_d Straight1_diff.png
+
+map_Ns Straight1_spec.png
+
+newmtl 4wayIntersection2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0862745 0.0862745 0.0862745 
+
+d 1
+
+Ns 0
+
+map_Ka 4wayIntersection2_diff.png
+map_Kd 4wayIntersection2_diff.png
+map_d 4wayIntersection2_diff.png
+
+newmtl Straight1105Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00028059 0.000741686 0.00123731 
+
+d 1
+
+Ns 0
+
+map_Ka Straight1105_diff.png
+map_Kd Straight1105_diff.png
+map_d Straight1105_diff.png
+
+map_Bump Straight1105_nmap.png
+
+map_Ns Straight1105_spec.png
+
+newmtl Straight1106Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0392157 0.0392157 0.0392157 
+
+d 1
+
+Ns 0
+
+map_Ka Straight2_diff.png
+map_Kd Straight2_diff.png
+map_d Straight2_diff.png
+
