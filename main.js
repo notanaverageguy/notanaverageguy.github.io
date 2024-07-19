@@ -68,13 +68,10 @@ function render_model(ModelPath) {
       `Models/${ModelPath}/${ModelPath}.obj`,
       (root) => {
         scene.add(root);
-        //const box = new THREE.Box3().setFromObject(root); find bounding box
         const box = new THREE.Box3().setFromObject(root);
 
         const boxSize = box.getSize(new THREE.Vector3()).length();
         const boxCenter = box.getCenter(new THREE.Vector3());
-
-        // set the camera to frame the box
         frameArea(boxSize * 1.2, boxSize, boxCenter, camera);
 
         current_render_index += 1;
@@ -137,17 +134,19 @@ let confirming = true;
 window.addEventListener("keydown", (e) => {
   if (e.key == " ") {
     if (confirming) {
-      answerdot = document.createElement("div");
-      answerdot.classList.add("dot");
-      clickOverlay.appendChild(answerdot);
+      if (dot) {
+        answerdot = document.createElement("div");
+        answerdot.classList.add("dot");
+        clickOverlay.appendChild(answerdot);
 
-      answerdot.style.top = `${answer.z * map_image.clientHeight}px`;
-      answerdot.style.left = `${answer.x * map_image.clientWidth}px`;
-      answerdot.style.background = "#00ff00";
+        answerdot.style.top = `${answer.z * map_image.clientHeight}px`;
+        answerdot.style.left = `${answer.x * map_image.clientWidth}px`;
+        answerdot.style.background = "#00ff00";
 
-      document.getElementById("scoreDisplay").style.display = "block";
-      document.getElementById("scoreDisplay").innerText =
-        `Score: ${Math.floor(distance_to_score(distance_to_solution))}`;
+        document.getElementById("scoreDisplay").style.display = "block";
+        document.getElementById("scoreDisplay").innerText =
+          `Score: ${Math.floor(distance_to_score(distance_to_solution))}`;
+      }
     } else {
       if (answerdot) {
         clickOverlay.removeChild(answerdot);
@@ -229,8 +228,6 @@ function randomize_position(roads = true, buildings = true) {
     x: (camera.position.x + 1882.5) / baseplate_measurements.x, // Hardcoded numbers of the minimums of where the the model loads
     z: (camera.position.z + 2578) / baseplate_measurements.z,
   };
-
-  console.log(answer);
 }
 
 const baseplate_measurements = {
