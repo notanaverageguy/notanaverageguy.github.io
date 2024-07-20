@@ -53,7 +53,7 @@ let current_render_index = 0;
 let things_to_render = [
   "baseplate",
   "road",
-  //"buildings",
+  "buildings",
   //"props",
   //"billboards",
   //"deco"
@@ -166,8 +166,8 @@ function randomize_position(roads = true, buildings = true) {
   if (!roads && !buildings) return;
 
   while (true) {
-    const road_weight = 0.1;
-    const buildings_weight = 0.0;
+    const road_weight = 0.5;
+    const buildings_weight = 0.5;
     const rand_num = Math.random() * (road_weight + buildings_weight);
 
     if (rand_num >= road_weight) {
