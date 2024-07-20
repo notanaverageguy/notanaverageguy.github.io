@@ -11,7 +11,7 @@ const renderer = new THREE.WebGLRenderer({ canvas });
 const fov = 90;
 const aspect = 1;
 const near = 0.1;
-const far = 4000;
+const far = 10000;
 const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
 const controls = new OrbitControls(camera, renderer.domElement);
 controls.enableZoom = false;
@@ -53,9 +53,9 @@ let current_render_index = 0;
 let things_to_render = [
   "baseplate",
   "road",
-  "buildings",
+  //"buildings",
   //"props",
-  "billboards",
+  //"billboards",
   //"deco"
 ];
 function render_model(ModelPath) {
@@ -167,7 +167,7 @@ function randomize_position(roads = true, buildings = true) {
 
   while (true) {
     const road_weight = 0.1;
-    const buildings_weight = 0.1;
+    const buildings_weight = 0.0;
     const rand_num = Math.random() * (road_weight + buildings_weight);
 
     if (rand_num >= road_weight) {
