@@ -209,7 +209,7 @@ function randomize_position(roads = true, buildings = true) {
             chosenSegment.p1.z +
             interpolationFactor * (chosenSegment.p2.z - chosenSegment.p1.z);
 
-          camera.position.set(pointX, 20, pointZ);
+          camera.position.set(pointX, 10, pointZ);
         }
         break;
       }
