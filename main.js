@@ -56,7 +56,7 @@ let things_to_render = [
   // "buildings",
   "props",
   // "billboards",
-  "deco"
+  // "deco"
 ];
 function render_model(ModelPath) {
   const mtlLoader = new MTLLoader();
