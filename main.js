@@ -52,10 +52,10 @@ function frameArea(sizeToFitOnScreen, boxSize, boxCenter, camera) {
 let current_render_index = 0;
 let things_to_render = [
   "baseplate",
-  // "road",
+  "road",
   // "buildings",
-  "props",
-  // "billboards",
+  // "props",
+  "billboards",
   // "deco"
 ];
 function render_model(ModelPath) {
