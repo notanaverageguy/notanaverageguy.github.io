@@ -52,11 +52,11 @@ function frameArea(sizeToFitOnScreen, boxSize, boxCenter, camera) {
 let current_render_index = 0;
 let things_to_render = [
   "baseplate",
-  "road",
-  "buildings",
-  //"props",
-  //"billboards",
-  //"deco"
+  // "road",
+  // "buildings",
+  "props",
+  "billboards",
+  "deco"
 ];
 function render_model(ModelPath) {
   const mtlLoader = new MTLLoader();
