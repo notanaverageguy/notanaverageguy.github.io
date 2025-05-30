@@ -55,7 +55,7 @@ let things_to_render = [
   // "road",
   // "buildings",
   "props",
-  "billboards",
+  // "billboards",
   "deco"
 ];
 function render_model(ModelPath) {
