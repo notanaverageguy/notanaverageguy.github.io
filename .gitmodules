@@ -1,0 +1,6 @@
+[submodule "projects/calculator"]
+	path = projects/calculator
+	url = https://github.com/notanaverageguy/parkour-calculator.git
+[submodule "projects/geoguessr"]
+	path = projects/geoguessr
+	url = https://github.com/notanaverageguy/parkour-geoguessr.git
